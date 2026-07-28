@@ -56,6 +56,8 @@ The table below summarizes all the papers we reviewed, the status of their datas
 | 3D cell culture using a clinostat reproduces microgravity-induced skin changes | npj Microgravity | [10.1038/s41526-021-00148-6](https://doi.org/10.1038/s41526-021-00148-6) | [Link](https://www.nature.com/articles/s41526-021-00148-6) | - | - | - | - | - | Public Website / Email Request | - | Simulated Microgravity | - |
 | Common Effects on Cancer Cells Exerted by a Random Positioning Machine and a 2D Clinostat | PLoS ONE | [10.1371/journal.pone.0135157](https://doi.org/10.1371/journal.pone.0135157) | [Link](https://dx.plos.org/10.1371/journal.pone.0135157) | - | - | - | - | - | Public Website / Email Request | - | Simulated Microgravity | - |
 | Differential gene expression profile and altered cytokine secretion of thyroid cancer cells in space | The FASEB Journal | [10.1096/fj.13-243287](https://doi.org/10.1096/fj.13-243287) | [Link](https://onlinelibrary.wiley.com/doi/abs/10.1096/fj.13-243287) | - | - | - | - | - | Public Website / Email Request | - | Simulated Microgravity | - |
+| Cold stress during room temperature housing alters skeletal response to simulated microgravity (hindlimb unloading) in growing female C57BL6 mice | Biochimie | [10.1016/j.biochi.2022.12.009](https://doi.org/10.1016/j.biochi.2022.12.009) | [Link](https://doi.org/10.1016/j.biochi.2022.12.009) | [OSD-980](./OSD-980/) | CC-BY 4.0 | Wong et al. (2023) | Carmen P. Wong, Adam J. Branscum, Aidan R. Fichter, Jennifer Sargent, Urszula T. Iwaniec, Russell T. Turner | 2023 | NASA OSDR Deposit | .xlsx | Simulated Microgravity / Bone Physiology | NASA OSDR / Carmen P. Wong |
+
 
 
 ## Contact
