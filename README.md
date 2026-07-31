@@ -11,8 +11,8 @@
 ### *Because "just Google it" doesn't work when your subject is floating in a lab on Earth pretending it's in space* 🚀
 
 [![Made with](https://img.shields.io/badge/built_with-systematic_review-9cf?style=for-the-badge)]()
-[![Papers Reviewed](https://img.shields.io/badge/papers_reviewed-57-orange?style=for-the-badge)]()
-[![Datasets Linked](https://img.shields.io/badge/datasets_linked-9-brightgreen?style=for-the-badge)]()
+[![Papers Reviewed](https://img.shields.io/badge/papers_reviewed-67-orange?style=for-the-badge)]()
+[![Datasets Linked](https://img.shields.io/badge/datasets_linked-10-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=for-the-badge)]()
 
 </div>
@@ -80,7 +80,7 @@ This project was completed as a research internship task, split into two linked 
 
 ## 7. 📊 Dataset Table
 
-> 57 papers reviewed · 9 with confirmed, linkable public datasets · full extraction details in each row below.
+> 67 papers reviewed · 10 with confirmed, linkable public datasets · full extraction details in each row below.
 
 | # | Paper Title | Journal | DOI | Paper Link | Details | Type of Dataset | Dataset Link |
 |---|---|---|---|---|---|---|---|
@@ -141,6 +141,16 @@ This project was completed as a research internship task, split into two linked 
 | 55 | Proteomic analysis of the effects of simulated microgravity in human gastric mucosal cells | Life Sciences in Space Research | `10.1016/j.lssr.2021.10.001` | [Link](https://doi.org/10.1016/j.lssr.2021.10.001) | [View Details](#paper-55) | Proteomics (LC-MS/MS, RAW) | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD026675) |
 | 56 | Simulated Microgravity Modulates Focal Adhesion Gene Expression in Human Neural Stem Progenitor Cells | Life | `10.3390/life12111827` | [Link](https://doi.org/10.3390/life12111827) | [View Details](#paper-56) | Numerical (Gene expression, XLSX) | Dataset available as ZIP (see repo /data folder) |
 | 57 | Transcriptomic response of bioengineered human cartilage to parabolic flight microgravity is sex-dependent | npj Microgravity | `10.1038/s41526-023-00255-6` | [Link](https://doi.org/10.1038/s41526-023-00255-6) | [View Details](#paper-57) | RNA-seq (TXT/FASTQ) | [Link](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206008) |
+| 58 | Tissue Engineering of Cartilage Using a Random Positioning Machine | International Journal of Molecular Sciences | `10.3390/ijms21249596` | [Link](https://www.mdpi.com/1422-0067/21/24/9596) | [View Details](#paper-58) | No public dataset | N/A |
+| 59 | Simulated Microgravity Affects Chondrogenesis and Hypertrophy of Human Mesenchymal Stem Cells | International Orthopaedics (SICOT) | `10.1007/s00264-014-2454-3` | [Link](https://link.springer.com/article/10.1007/s00264-014-2454-3) | [View Details](#paper-59) | No public dataset | N/A |
+| 60 | Simulated Microgravity Using a Rotary Cell Culture System Promotes Chondrogenesis of Human Adipose-Derived Mesenchymal Stem Cells via the p38 MAPK Pathway | Biochemical and Biophysical Research Communications | `10.1016/j.bbrc.2011.09.103` | [Link](https://www.sciencedirect.com/science/article/pii/S0006291X11017189) | [View Details](#paper-60) | No public dataset | N/A |
+| 61 | Exposure to Random Positioning Machine Alters the Mineralization Process and PTX3 Expression in the SAOS-2 Cell Line | Life | `10.3390/life12050610` | [Link](https://www.mdpi.com/2075-1729/12/5/610) | [View Details](#paper-61) | Experimental numerical data | Available on request |
+| 62 | Simulated Microgravity Created Using a Random Positioning Machine Induces Changes in the Physiology of the Fusarium solani Species Complex | Microorganisms | `10.3390/microorganisms10112270` | [Link](https://www.mdpi.com/2076-2607/10/11/2270) | [View Details](#paper-62) | Experimental numerical data | Available on request |
+| 63 | Role of Myostatin in Muscle Degeneration by Random Positioning Machine Exposure: An in vitro Study for the Treatment of Sarcopenia | Frontiers in Physiology | `10.3389/fphys.2022.782000` | [Link](https://www.frontiersin.org/articles/10.3389/fphys.2022.782000/full) | [View Details](#paper-63) | Experimental numerical data | Available on request |
+| 64 | Biological and Mechanical Characterization of the Random Positioning Machine (RPM) for Microgravity Simulations | Life | `10.3390/life11111190` | [Link](https://www.mdpi.com/2075-1729/11/11/1190) | [View Details](#paper-64) | No public dataset | N/A |
+| 65 | Impairment of 7F2 Osteoblast Function by Simulated Partial Gravity in a Random Positioning Machine | npj Microgravity | `10.1038/s41526-022-00202-x` | [Link](https://www.nature.com/articles/s41526-022-00202-x) | [View Details](#paper-65) | Experimental numerical data | Available on request |
+| 66 | Characterization of the Random Positioning Machine as a Microgravity Simulator for Biological Applications | PLOS ONE | `10.1371/journal.pone.0351320` | [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351320) | [View Details](#paper-66) | Experimental numerical data | Available on request |
+| 67 | Evaluating the Impact of Simulated Microgravity of a Random Positioning Machine on the Stability of Emulsions Applying Scaling Analysis via Dimensionless Numbers | Soft Matter | `10.1039/d5sm00436e` | [Link](https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00436e) | [View Details](#paper-67) | Numerical (time-series motion data and experimental measurements) | [https://doi.org/10.17639/nott.7406](https://doi.org/10.17639/nott.7406) ; [https://doi.org/10.1039/d5sm00436e](https://doi.org/10.1039/d5sm00436e) |
 ---
 
 ## 8. 📄 Paper Details
@@ -1113,6 +1123,176 @@ This project was completed as a research internship task, split into two linked 
 | **Dataset Link** | [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206008](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206008) |
 
 [⬆ Back to Dataset Table](#7--dataset-table)
+
+<a name="paper-58"></a>
+### 📄 Paper #58 — Tissue Engineering of Cartilage Using a Random Positioning Machine
+
+| Field | Detail |
+|---|---|
+| **Journal** | International Journal of Molecular Sciences |
+| **DOI** | [10.3390/ijms21249596](https://doi.org/10.3390/ijms21249596) |
+| **Paper Link** | [https://www.mdpi.com/1422-0067/21/24/9596](https://www.mdpi.com/1422-0067/21/24/9596) |
+| **Details** | Relevant to RPM; no public dataset found. Data available upon reasonable request from authors. |
+| **Type of Dataset** | No public dataset |
+| **Dataset Link** | N/A |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-59"></a>
+### 📄 Paper #59 — Simulated Microgravity Affects Chondrogenesis and Hypertrophy of Human Mesenchymal Stem Cells
+
+| Field | Detail |
+|---|---|
+| **Journal** | International Orthopaedics (SICOT) |
+| **DOI** | [10.1007/s00264-014-2454-3](https://doi.org/10.1007/s00264-014-2454-3) |
+| **Paper Link** | [https://link.springer.com/article/10.1007/s00264-014-2454-3](https://link.springer.com/article/10.1007/s00264-014-2454-3) |
+| **Details** | Relevant to RPM/simulated microgravity; no public repository identified. |
+| **Type of Dataset** | No public dataset |
+| **Dataset Link** | N/A |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-60"></a>
+### 📄 Paper #60 — Simulated Microgravity Using a Rotary Cell Culture System Promotes Chondrogenesis of Human Adipose-Derived Mesenchymal Stem Cells via the p38 MAPK Pathway
+
+| Field | Detail |
+|---|---|
+| **Journal** | Biochemical and Biophysical Research Communications |
+| **DOI** | [10.1016/j.bbrc.2011.09.103](https://doi.org/10.1016/j.bbrc.2011.09.103) |
+| **Paper Link** | [https://www.sciencedirect.com/science/article/pii/S0006291X11017189](https://www.sciencedirect.com/science/article/pii/S0006291X11017189) |
+| **Details** | Uses RCCS instead of RPM; no public dataset available. |
+| **Type of Dataset** | No public dataset |
+| **Dataset Link** | N/A |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-61"></a>
+### 📄 Paper #61 — Exposure to Random Positioning Machine Alters the Mineralization Process and PTX3 Expression in the SAOS-2 Cell Line
+
+| Field | Detail |
+|---|---|
+| **Journal** | Life |
+| **DOI** | [10.3390/life12050610](https://doi.org/10.3390/life12050610) |
+| **Paper Link** | [https://www.mdpi.com/2075-1729/12/5/610](https://www.mdpi.com/2075-1729/12/5/610) |
+| **Details** | Relevant to RPM; raw experimental data available upon reasonable request. |
+| **Type of Dataset** | Experimental numerical data |
+| **Dataset Link** | Available on request |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-62"></a>
+### 📄 Paper #62 — Simulated Microgravity Created Using a Random Positioning Machine Induces Changes in the Physiology of the Fusarium solani Species Complex
+
+| Field | Detail |
+|---|---|
+| **Journal** | Microorganisms |
+| **DOI** | [10.3390/microorganisms10112270](https://doi.org/10.3390/microorganisms10112270) |
+| **Paper Link** | [https://www.mdpi.com/2076-2607/10/11/2270](https://www.mdpi.com/2076-2607/10/11/2270) |
+| **Details** | Relevant to RPM; no public repository. Raw data available upon request. |
+| **Type of Dataset** | Experimental numerical data |
+| **Dataset Link** | Available on request |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-63"></a>
+### 📄 Paper #63 — Role of Myostatin in Muscle Degeneration by Random Positioning Machine Exposure: An in vitro Study for the Treatment of Sarcopenia
+
+| Field | Detail |
+|---|---|
+| **Journal** | Frontiers in Physiology |
+| **DOI** | [10.3389/fphys.2022.782000](https://doi.org/10.3389/fphys.2022.782000) |
+| **Paper Link** | [https://www.frontiersin.org/articles/10.3389/fphys.2022.782000/full](https://www.frontiersin.org/articles/10.3389/fphys.2022.782000/full) |
+| **Details** | Relevant to RPM; raw data available upon reasonable request. |
+| **Type of Dataset** | Experimental numerical data |
+| **Dataset Link** | Available on request |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-64"></a>
+### 📄 Paper #64 — Biological and Mechanical Characterization of the Random Positioning Machine (RPM) for Microgravity Simulations
+
+| Field | Detail |
+|---|---|
+| **Journal** | Life |
+| **DOI** | [10.3390/life11111190](https://doi.org/10.3390/life11111190) |
+| **Paper Link** | [https://www.mdpi.com/2075-1729/11/11/1190](https://www.mdpi.com/2075-1729/11/11/1190) |
+| **Details** | Relevant engineering characterization study; Data Availability: Not applicable; no public repository. |
+| **Type of Dataset** | No public dataset |
+| **Dataset Link** | N/A |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-65"></a>
+### 📄 Paper #65 — Impairment of 7F2 Osteoblast Function by Simulated Partial Gravity in a Random Positioning Machine
+
+| Field | Detail |
+|---|---|
+| **Journal** | npj Microgravity |
+| **DOI** | [10.1038/s41526-022-00202-x](https://doi.org/10.1038/s41526-022-00202-x) |
+| **Paper Link** | [https://www.nature.com/articles/s41526-022-00202-x](https://www.nature.com/articles/s41526-022-00202-x) |
+| **Details** | Relevant to RPM; data available from corresponding author upon reasonable request. |
+| **Type of Dataset** | Experimental numerical data |
+| **Dataset Link** | Available on request |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-66"></a>
+### 📄 Paper #66 — Characterization of the Random Positioning Machine as a Microgravity Simulator for Biological Applications
+
+| Field | Detail |
+|---|---|
+| **Journal** | PLOS ONE |
+| **DOI** | [10.1371/journal.pone.0351320](https://doi.org/10.1371/journal.pone.0351320) |
+| **Paper Link** | [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351320](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351320) |
+| **Details** | Relevant engineering validation study; no public repository. Raw data available upon reasonable request. |
+| **Type of Dataset** | Experimental numerical data |
+| **Dataset Link** | Available on request |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
+
+<a name="paper-67"></a>
+### 📄 Paper #67 — Evaluating the Impact of Simulated Microgravity of a Random Positioning Machine on the Stability of Emulsions Applying Scaling Analysis via Dimensionless Numbers
+
+| Field | Detail |
+|---|---|
+| **Journal** | Soft Matter |
+| **DOI** | [10.1039/d5sm00436e](https://doi.org/10.1039/d5sm00436e) |
+| **Paper Link** | [https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00436e](https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00436e) |
+| **Details** | Relevant RPM methodology study. Public datasets include RPM movement recordings and supplementary experimental emulsion characterization data. |
+| **Type of Dataset** | Numerical (time-series motion data and experimental measurements) |
+| **Dataset Link** | [https://doi.org/10.17639/nott.7406](https://doi.org/10.17639/nott.7406) ; [https://doi.org/10.1039/d5sm00436e](https://doi.org/10.1039/d5sm00436e) |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
+
+---
+
 
 ---
 
