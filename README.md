@@ -1292,6 +1292,21 @@ This project was completed as a research internship task, split into two linked 
 [⬆ Back to Dataset Table](#7--dataset-table)
 
 ---
+<a name="paper-68"></a>
+### 📄 Paper #68 — The ex vivo human translaminar autonomous system to study spaceflight associated neuro-ocular syndrome pathogenesis (Retina, RT-PCR and electroretinography)
+| Field | Detail |
+|---|---|
+| **Journal** | NASA Open Science Data Repository (OSDR) |
+| **DOI** | [10.26030/fsge-rk47) |
+| **Paper Link** | N/A (Dataset study, not a journal paper) |
+| **Details** | Ex vivo human translaminar autonomous system for investigating Spaceflight Associated Neuro-Ocular Syndrome (SANS). Includes retina imaging, RT-PCR gene expression, and electroretinography (ERG) data. Dataset size: 177.17 MB. Related study: OSD-815. Public release: 23-Jul-2026. |
+| **Type of Dataset** | Retina imaging, RT-PCR, Electroretinography (ERG) |
+| **Dataset Link** | [Electroretinography (ERG)
+https://osdr.nasa.gov/bio/repo/data/studies/OSD-816](Electroretinography (ERG)
+https://osdr.nasa.gov/bio/repo/data/studies/OSD-816) ; [Electroretinography (ERG)
+https://osdr.nasa.gov/bio/repo/data/studies/OSD-816) |
+
+[⬆ Back to Dataset Table](#7--dataset-table)
 
 
 ---
